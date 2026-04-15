@@ -1,0 +1,387 @@
+{
+  "jelovnik": [
+    {
+      "id_grupa": 1,
+      "nadgrupa": "Hrana",
+      "kategorije": [
+        {
+          "id_kat": 11,
+          "naziv": "Pizze",
+          "stavke": [
+            {
+              "id": 1101,
+              "naziv": "Capriciosa",
+              "opis": "rajčica, sir, šunka, šampinjoni",
+              "varijante": [
+                { "id_v": "1101-v1", "naziv": "Mala", "cijena": 8.50 },
+                { "id_v": "1101-v2", "naziv": "Srednja", "cijena": 10.00 },
+                { "id_v": "1101-v3", "naziv": "Jumbo", "cijena": 16.00 }
+              ],
+              "dodaci": [
+                { "id": "1101-d1", "naziv": "Masline", "cijena": 0.50 },
+                { "id": "1101-d2", "naziv": "Više rajčice", "cijena": 0.40 },
+                { "id": "1101-d3", "naziv": "Više sira", "cijena": 0.50 },
+                { "id": "1101-d4", "naziv": "Više šunke", "cijena": 0.60 },
+                { "id": "1101-d5", "naziv": "Više šampinjona", "cijena": 0.40 }
+              ]
+            },
+            {
+              "id": 1102,
+              "naziv": "Margarita",
+              "opis": "rajčica, sir",
+              "varijante": [
+                { "id_v": "1102-v1", "naziv": "Mala", "cijena": 8.00 },
+                { "id_v": "1102-v2", "naziv": "Srednja", "cijena": 10.00 },
+                { "id_v": "1102-v3", "naziv": "Jumbo", "cijena": 20.00 }
+              ],
+              "dodaci": [
+                { "id": "1102-d1", "naziv": "Masline", "cijena": 0.50 },
+                { "id": "1102-d2", "naziv": "Više rajčice", "cijena": 0.40 },
+                { "id": "1102-d3", "naziv": "Više sira", "cijena": 0.50 }
+              ]
+            },
+            {
+              "id": 1103,
+              "naziv": "Vesuvio",
+              "opis": "rajčica, sir, šunka",
+              "varijante": [
+                { "id_v": "1103-v1", "naziv": "Mala", "cijena": 8.00 },
+                { "id_v": "1103-v2", "naziv": "Srednja", "cijena": 10.00 },
+                { "id_v": "1103-v3", "naziv": "Jumbo", "cijena": 20.00 }
+              ],
+              "dodaci": [
+                { "id": "1103-d1", "naziv": "Masline", "cijena": 0.50 },
+                { "id": "1103-d2", "naziv": "Više rajčice", "cijena": 0.40 },
+                { "id": "1103-d3", "naziv": "Više sira", "cijena": 0.50 },
+                { "id": "1103-d4", "naziv": "Više šunke", "cijena": 0.60 }
+              ]
+            },
+            {
+              "id": 1104,
+              "naziv": "Funghi",
+              "opis": "rajčica, sir, šampinjoni",
+              "varijante": [
+                { "id_v": "1104-v1", "naziv": "Mala", "cijena": 8.00 },
+                { "id_v": "1104-v2", "naziv": "Srednja", "cijena": 10.00 },
+                { "id_v": "1104-v3", "naziv": "Jumbo", "cijena": 20.00 }
+              ],
+              "dodaci": [
+                { "id": "1104-d1", "naziv": "Masline", "cijena": 0.50 },
+                { "id": "1104-d2", "naziv": "Više rajčice", "cijena": 0.40 },
+                { "id": "1104-d3", "naziv": "Više sira", "cijena": 0.50 },
+                { "id": "1104-d4", "naziv": "Više šampinjona", "cijena": 0.40 }
+              ]
+            },
+            {
+              "id": 1105,
+              "naziv": "Picante",
+              "opis": "rajčica, sir, šunka, špek, ljuti feferoni",
+              "varijante": [
+                { "id_v": "1105-v1", "naziv": "Mala", "cijena": 10.00 },
+                { "id_v": "1105-v2", "naziv": "Srednja", "cijena": 12.50 },
+                { "id_v": "1105-v3", "naziv": "Jumbo", "cijena": 25.00 }
+              ],
+              "dodaci": [
+                { "id": "1105-d1", "naziv": "Masline", "cijena": 0.50 },
+                { "id": "1105-d2", "naziv": "Više rajčice", "cijena": 0.40 },
+                { "id": "1105-d3", "naziv": "Više sira", "cijena": 0.50 },
+                { "id": "1105-d4", "naziv": "Više šunke", "cijena": 0.60 },
+                { "id": "1105-d5", "naziv": "Više šampinjona", "cijena": 0.40 }
+              ]
+            },
+            {
+              "id": 1106,
+              "naziv": "Pizza s četiri vrste sira",
+              "opis": "rajčica, 4 vrste sira",
+              "varijante": [
+                { "id_v": "1106-v1", "naziv": "Mala", "cijena": 9.00 },
+                { "id_v": "1106-v2", "naziv": "Srednja", "cijena": 11.00 },
+                { "id_v": "1106-v3", "naziv": "Jumbo", "cijena": 22.00 }
+              ],
+              "dodaci": [
+                { "id": "1106-d1", "naziv": "Masline", "cijena": 0.50 },
+                { "id": "1106-d2", "naziv": "Više rajčice", "cijena": 0.40 },
+                { "id": "1106-d3", "naziv": "Više sira", "cijena": 0.50 },
+                { "id": "1106-d4", "naziv": "Šunke", "cijena": 0.60 },
+                { "id": "1106-d5", "naziv": "Šampinjona", "cijena": 0.40 }
+              ]
+            },
+            {
+              "id": 1107,
+              "naziv": "Vegetarijanska pizza",
+              "opis": "rajčica, sir, razno povrće, šampinjoni",
+              "varijante": [
+                { "id_v": "1107-v1", "naziv": "Mala", "cijena": 8.00 },
+                { "id_v": "1107-v2", "naziv": "Srednja", "cijena": 10.00 },
+                { "id_v": "1107-v3", "naziv": "Jumbo", "cijena": 20.00 }
+              ],
+              "dodaci": [
+                { "id": "1107-d1", "naziv": "Masline", "cijena": 0.50 },
+                { "id": "1107-d2", "naziv": "Više rajčice", "cijena": 0.40 },
+                { "id": "1107-d3", "naziv": "Više sira", "cijena": 0.50 },
+                { "id": "1107-d4", "naziv": "Više šampinjona", "cijena": 0.40 },
+                { "id": "1107-d5", "naziv": "Više povrća", "cijena": 0.40 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id_grupa": 2,
+      "nadgrupa": "Pića",
+      "kategorije": [
+        {
+          "id_kat": 21,
+          "naziv": "Bezalkoholna pića",
+          "stavke": [
+            {
+              "id": 2101,
+              "naziv": "Cocta",
+              "opis": "0.25l",
+              "varijante": [],
+              "cijena": 3.50, 
+              "dodaci": [
+                { "id": "2101-d1", "naziv": "Led i limun", "cijena": 0.50 }
+              ]
+            },
+            {
+              "id": 2102,
+              "naziv": "Coca Cola",
+              "opis": "0.25l",
+              "varijante": [],
+              "cijena": 3.50, 
+              "dodaci": [
+                { "id": "2102-d1", "naziv": "Led i limun", "cijena": 0.50 }
+              ]
+            },
+            {
+              "id": 2103,
+              "naziv": "Fanta",
+              "opis": "0.25l",
+              "varijante": [],
+              "cijena": 3.50, 
+              "dodaci": [
+                { "id": "2103-d1", "naziv": "Led i limun", "cijena": 0.50 }
+              ]
+            },
+            {
+              "id": 2104,
+              "naziv": "Sprite",
+              "opis": "0.25l",
+              "varijante": [],
+              "cijena": 3.50, 
+              "dodaci": [
+                { "id": "2104-d1", "naziv": "Led i limun", "cijena": 0.50 }
+              ]
+            },
+            {
+              "id": 2105,
+              "naziv": "Schweppes",
+              "opis": "0.25l",
+              "varijante": [],
+              "cijena": 3.50, 
+              "dodaci": [
+                { "id": "2105-d1", "naziv": "Led i limun", "cijena": 0.50 }
+              ]
+            },
+            {
+              "id": 2106,
+              "naziv": "Cedevita",
+              "opis": "0.2l",
+              "varijante": [],
+              "cijena": 3.00, 
+              "dodaci": [
+                { "id": "2106-d1", "naziv": "Led", "cijena": 0.00 }
+              ]
+            },
+            {
+              "id": 2107,
+              "naziv": "Hidra",
+              "opis": "0.5l",
+              "varijante": [],
+              "cijena": 4.00, 
+              "dodaci": [
+                { "id": "2107-d1", "naziv": "Led i limun", "cijena": 0.50 }
+              ]
+            }
+          ]
+        },
+        {
+          "id_kat": 22,
+          "naziv": "Topli napitci",
+          "stavke": [
+            {
+              "id": 2201,
+              "naziv": "Kava espresso",
+              "opis": "Čisti espresso 100% Arabica",
+              "varijante": [
+                { "id_v": "2201-v1", "naziv": "Kratki", "cijena": 2.00 },
+                { "id_v": "2201-v2", "naziv": "Produženi", "cijena": 2.00 }
+              ],
+              "cijena": 2.00,
+              "dodaci": [
+                { "id": "2201-d1", "naziv": "Šlag", "cijena": 0.60 }
+              ]
+            },
+            {
+              "id": 2202,
+              "naziv": "Kava s mlijekom",
+              "opis": "Espresso s pjenom od mlijeka",
+              "varijante": [
+                { "id_v": "2202-v1", "naziv": "Velika šalica", "cijena": 3.10 },
+                { "id_v": "2202-v2", "naziv": "Mala šalica", "cijena": 2.30 }
+              ],
+              "cijena": 2.30, 
+              "dodaci": [
+                { "id": "2202-d1", "naziv": "Hladno mlijeko", "cijena": 0.00 },
+                { "id": "2202-d2", "naziv": "Toplo mlijeko", "cijena": 0.00 },
+                { "id": "2202-d3", "naziv": "Bezlaktozno mlijeko", "cijena": 0.50 }
+              ]
+            },
+            {
+              "id": 2203,
+              "naziv": "Capuccino",
+              "opis": "Kremasti napitak od kave i mlijeka",
+              "varijante": [],
+              "cijena": 2.30, 
+              "dodaci": [
+                { "id": "2203-d1", "naziv": "Posip okolada", "cijena": 0.00 },
+                { "id": "2203-d2", "naziv": "Posip cimet", "cijena": 0.00 }
+              ]
+            },
+            {
+              "id": 2204,
+              "naziv": "Vruća čokolada",
+              "opis": "Gusta čokolada u šalici",
+              "varijante": [
+                { "id_v": "2204-v1", "naziv": "Crna", "cijena": 3.00 },
+                { "id_v": "2204-v2", "naziv": "Bijela", "cijena": 3.00 }
+              ],
+              "cijena": 3.00, 
+              "dodaci": [
+                { "id": "2204-d1", "naziv": "Šlag", "cijena": 0.60 }
+              ]
+            },
+            {
+              "id": 2205,
+              "naziv": "Bijela kava",
+              "opis": "Velika šalica kave s puno mlijeka",
+              "varijante": [],
+              "cijena": 2.70, 
+              "dodaci": [
+                { "id": "2205-d1", "naziv": "Bezlaktozno mlijeko", "cijena": 0.50 }
+              ]
+            },
+            {
+              "id": 2206,
+              "naziv": "Čaj",
+              "opis": "Topli čaj s dodatkom po izboru",
+              "varijante": [
+                { "id_v": "2206-v1", "naziv": "Kamilica", "cijena": 2.70 },
+                { "id_v": "2206-v2", "naziv": "Šipak", "cijena": 2.70 },
+                { "id_v": "2206-v3", "naziv": "Zeleni", "cijena": 2.70 },
+                { "id_v": "2206-v4", "naziv": "Šumsko voće", "cijena": 2.70 }
+              ],
+              "cijena": 2.70, 
+              "dodaci": [
+                { "id": "2206-d1", "naziv": "Limun", "cijena": 0.30 },
+                { "id": "2206-d2", "naziv": "Med", "cijena": 0.40 }
+              ]
+            },
+            {
+              "id": 2207,
+              "naziv": "Nescaffe",
+              "opis": "Instant kava",
+              "varijante": [
+                { "id_v": "2207-v1", "naziv": "Classic", "cijena": 2.70 },
+                { "id_v": "2207-v2", "naziv": "Vanilija", "cijena": 2.70 },
+                { "id_v": "2207-v3", "naziv": "Čokolada", "cijena": 2.70 }
+              ],
+              "cijena": 2.70, 
+              "dodaci": [
+                { "id": "2207-d1", "naziv": "Šlag", "cijena": 0.60 }
+              ]
+            }
+          ]
+        },
+        {
+          "id_kat": 23,
+          "naziv": "Piva",
+          "stavke": [
+            {
+              "id": 2301,
+              "naziv": "Carlsberg",
+              "opis": "0.33l",
+              "varijante": [],
+              "cijena": 3.50,
+              "dodaci": []
+            },
+            {
+              "id": 2302,
+              "naziv": "Blanc",
+              "opis": "0.5l",
+              "varijante": [],
+              "cijena": 4.00,
+              "dodaci": []
+            },
+            {
+              "id": 2303,
+              "naziv": "Pan",
+              "opis": "0.5l",
+              "varijante": [
+                { "id_v": "2303-v1", "naziv": "Klasično", "cijena": 4.00 },
+                { "id_v": "2303-v2", "naziv": "Bezalkoholno", "cijena": 4.00 }
+              ],
+              "cijena": 4.00,
+              "dodaci": []
+            },
+            {
+              "id": 2305,
+              "naziv": "Točeno",
+              "opis": "0.5l",
+              "varijante": [
+                { "id_v": "2305-v1", "naziv": "0.5l", "cijena": 4.50 },
+                { "id_v": "2305-v2", "naziv": "0.33l", "cijena": 4.00 }
+              ],
+              "cijena": 4.50,
+              "dodaci": []
+            },
+            {
+              "id": 2307,
+              "naziv": "Ožujsko",
+              "opis": "0.33l",
+              "varijante": [],
+              "cijena": 3.50,
+              "dodaci": []
+            },
+            {
+              "id": 2308,
+              "naziv": "Pan radler",
+              "opis": "0.5l",
+              "varijante": [],
+              "cijena": 4.00,
+              "dodaci": []
+            },
+            {
+              "id": 2309,
+              "naziv": "Pan tamni",
+              "opis": "0.5l",
+              "varijante": [],
+              "cijena": 4.00,
+              "dodaci": []
+            },
+            {
+              "id": 2310,
+              "naziv": "Somerby",
+              "opis": "0.33l",
+              "varijante": [],
+              "cijena": 3.80,
+              "dodaci": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
